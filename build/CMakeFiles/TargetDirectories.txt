@@ -1,0 +1,3 @@
+/home/martin/repos/displayImage/build/CMakeFiles/edit_cache.dir
+/home/martin/repos/displayImage/build/CMakeFiles/rebuild_cache.dir
+/home/martin/repos/displayImage/build/CMakeFiles/DisplayImage.dir
